@@ -3,7 +3,6 @@
 - User listing and detail endpoints
 - Fetch random dog images from an external API
 - Modular structure with controllers, services, and utilities
-- Winston-based logging
 - Environment variable support
 
 ## Getting Started
